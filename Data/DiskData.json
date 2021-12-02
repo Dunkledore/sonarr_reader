@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/",
+    "label": "",
+    "freeSpace": 60723355648,
+    "totalSpace": 133157720064
+  },
+  {
+    "path": "/Media",
+    "label": "",
+    "freeSpace": 0,
+    "totalSpace": 3936779821056
+  },
+  {
+    "path": "/config",
+    "label": "",
+    "freeSpace": 60723355648,
+    "totalSpace": 133157720064
+  },
+  {
+    "path": "/Overflow/Media",
+    "label": "",
+    "freeSpace": 250546507776,
+    "totalSpace": 1967926829056
+  }
+]
